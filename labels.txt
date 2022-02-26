@@ -1,0 +1,4 @@
+0 apple
+1 banana 
+2 egg
+3 brown bread
