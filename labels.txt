@@ -1,4 +1,5 @@
 0 apple
 1 banana 
-2 egg
-3 brown bread
+2 brown bread
+3 egg
+4 plate
